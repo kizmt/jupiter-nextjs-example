@@ -46,7 +46,7 @@ export interface MintInfo {
   supply: BN;
 }
 
-export function parseTokenMintData(data): MintInfo {
+export function parseTokenMintData(data: any): MintInfo {
   let { decimals, initialized, supply } = MINT_LAYOUT.decode(data);
   return {
     decimals,

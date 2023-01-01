@@ -116,7 +116,7 @@ export const useFeesAccountsFromRefCode = (refCode: string | undefined) => {
   return { usdcRef: usdc, usdtRef: usdt };
 };
 
-export const ReferrerProvider = ({ children }) => {
+export const ReferrerProvider = (children: any) => {
   const allowRefLink = process.env.REACT_APP_ALLOW_REF_LINK === 'true';
   const [refCode, setRefCode] = useLocalStorageState('refCode');
   const { usdcRef, usdtRef } = useFeesAccountsFromRefCode(

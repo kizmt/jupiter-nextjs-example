@@ -1039,7 +1039,7 @@ export function useBalances(): Balances[] {
   ];
 }
 
-export function useDailyGainers(isSmall) {
+export function useDailyGainers(isSmall: boolean) {
   /* todo: enrich with Solape API data for each token and exchange values (rest is done, automatically rendering
    social media links to asset info etc. */
   const { name } = useMarket();
@@ -1146,7 +1146,7 @@ export function useUnmigratedDeprecatedMarkets() {
     if (!marketsList) {
       return null;
     }
-    const getMarket = async (address) => {
+    const getMarket = async (address: PublicKey) => {
       const marketInfo = USE_MARKETS.find((market) =>
         market.address.equals(address),
       );
