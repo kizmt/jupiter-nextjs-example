@@ -1,0 +1,265 @@
+[{
+        "asset": "SOLAPE",
+        "timestamp": "May 2nd 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 125000,
+        "originValuation": 8387.50,
+        "athValuation": 12350
+    },
+    {
+        "asset": "AGTE",
+        "timestamp": "Aug 15th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 100,
+        "originValuation": 10,
+        "athValuation": 100.00
+    },
+    {
+        "asset": "LIQ",
+        "timestamp": "June 15th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 800.00,
+        "originValuation": 1440.8,
+        "athValuation": 2876.80
+    },
+    {
+        "asset": "APEX",
+        "timestamp": "July 28th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 50,
+        "originValuation": 48.5,
+        "athValuation": 392.50
+    },
+    {
+        "asset": "INU",
+        "timestamp": "Nov 8th 2021",
+        "requirement": "50000 SOLAPE",
+        "airdropAmount": 1000,
+        "originValuation": 33.458,
+        "athValuation": 85.00
+    },
+    {
+        "asset": "WEED",
+        "timestamp": "Nov 8th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 7884,
+        "originValuation": 5.44,
+        "athValuation": 15.69
+    },
+    {
+        "asset": "JOKE",
+        "timestamp": "May 15th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 35000,
+        "originValuation": 1.45,
+        "athValuation": 16.54
+    },
+    {
+        "asset": "WOOF",
+        "timestamp": "May 25th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 500000,
+        "originValuation": 1061.14,
+        "athValuation": 2728.82
+    },
+    {
+        "asset": "DEGN",
+        "timestamp": "Nov 3rd 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 776397,
+        "originValuation": 180.70,
+        "athValuation": 388.20
+    },
+    {
+        "asset": "SINU",
+        "timestamp": "Nov 8th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 26778,
+        "originValuation": 6.42672,
+        "athValuation": 669.45
+    },
+    {
+        "asset": "BOP",
+        "timestamp": "May 30th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 6250,
+        "originValuation": 468.75,
+        "athValuation": 1256.25
+    },
+    {
+        "asset": "SCUM",
+        "timestamp": "Nov 1st 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 637147,
+        "originValuation": 19.11,
+        "athValuation": 509.72
+    },
+    {
+        "asset": "FAB",
+        "timestamp": "May 26th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 3800,
+        "originValuation": 661.20,
+        "athValuation": 1626.02
+    },
+    {
+        "asset": "SOB",
+        "timestamp": "Nov 7th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 13.47,
+        "originValuation": 0.198,
+        "athValuation": 13.34
+    },
+    {
+        "asset": "mBRZ",
+        "timestamp": "May 19th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 10000,
+        "originValuation": 0.40,
+        "athValuation": 8.89
+    },
+    {
+        "asset": "LLAMA",
+        "timestamp": "May 19th 2021",
+        "requirement": "125000 SOLAPE",
+        "airdropAmount": 20000,
+        "originValuation": 20,
+        "athValuation": 36
+    },
+    {
+        "asset": "CATO",
+        "timestamp": "May 22nd 2021",
+        "requirement": "125000 SOLAPE",
+        "airdropAmount": 19417,
+        "originValuation": 639.69,
+        "athValuation": 1844.62
+    },
+    {
+        "asset": "PARTI",
+        "timestamp": "June 17th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 330,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "MEOW",
+        "timestamp": "May 17th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 20000,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "FEFE",
+        "timestamp": "May 18th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 5000,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "ZEO",
+        "timestamp": "April 9th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 600,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "SNEK",
+        "timestamp": "May 19th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 150000000,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "TUTL",
+        "timestamp": "June 17th 2021",
+        "requirement": "125000 SOLAPE",
+        "airdropAmount": 0,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "SAKITA",
+        "timestamp": "May 12th 2021",
+        "requirement": "125000 SOLAPE",
+        "airdropAmount": 1500000,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "FRENCH",
+        "timestamp": "May 17th 2021",
+        "requirement": "125000 SOLAPE",
+        "airdropAmount": 0,
+        "originValuation": 0,
+        "athValuation": 0
+    },
+    {
+        "asset": "GOD",
+        "timestamp": "Nov 4th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 116.08,
+        "originValuation": 0.75,
+        "athValuation": 3.48
+    },
+    {
+        "asset": "SAM",
+        "timestamp": "Nov 11th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 1231525.22,
+        "originValuation": 2.46,
+        "athValuation": 49.26
+    },
+    {
+        "asset": "WAGMI",
+        "timestamp": "Nov 26th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 777,
+        "originValuation": 0,
+        "athValuation": 3
+    },
+    {
+        "asset": "PIXL",
+        "timestamp": "Dec 4th 2021",
+        "requirement": "100000 SOLAPE",
+        "airdropAmount": 200.44,
+        "originValuation": 0,
+        "athValuation": 17.77
+    },
+    {
+        "asset": "TUT",
+        "timestamp": "Jan 15th 2022",
+        "requirement": "100000 SOLAPE or 1 NFT",
+        "airdropAmount": 8.88,
+        "originValuation": 0.28545,
+        "athValuation": 0.55383
+    },
+    {
+        "asset": "PUFF",
+        "timestamp": "Jan 20th 2022",
+        "requirement": "100000 SOLAPE or 1 NFT",
+        "airdropAmount": 17.8,
+        "originValuation": 0.2578,
+        "athValuation": 0.3606
+    },
+    {
+        "asset": "SHDW",
+        "timestamp": "Jan 24th 2022",
+        "requirement": "100000 SOLAPE or 1 NFT",
+        "airdropAmount": 5.6,
+        "originValuation": 1.1295,
+        "athValuation": 2.95
+    },
+    {
+        "asset": "RAD",
+        "timestamp": "Jan 28th 2022",
+        "requirement": "100000 SOLAPE or 1 NFT",
+        "airdropAmount": 6.9,
+        "originValuation": 0.463,
+        "athValuation": 0.537
+    }
+]
